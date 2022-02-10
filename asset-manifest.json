@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "./static/css/main.dd99f16a.chunk.css",
+    "main.js": "./static/js/main.979553bf.chunk.js",
+    "main.js.map": "./static/js/main.979553bf.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.dd81eaf0.js",
+    "runtime-main.js.map": "./static/js/runtime-main.dd81eaf0.js.map",
+    "static/js/2.4f43ad70.chunk.js": "./static/js/2.4f43ad70.chunk.js",
+    "static/js/2.4f43ad70.chunk.js.map": "./static/js/2.4f43ad70.chunk.js.map",
+    "static/js/3.c8acc230.chunk.js": "./static/js/3.c8acc230.chunk.js",
+    "static/js/3.c8acc230.chunk.js.map": "./static/js/3.c8acc230.chunk.js.map",
+    "index.html": "./index.html",
+    "static/css/main.dd99f16a.chunk.css.map": "./static/css/main.dd99f16a.chunk.css.map",
+    "static/js/2.4f43ad70.chunk.js.LICENSE.txt": "./static/js/2.4f43ad70.chunk.js.LICENSE.txt",
+    "static/media/alphabet.003b440f.svg": "./static/media/alphabet.003b440f.svg",
+    "static/media/check.8a9527ec.svg": "./static/media/check.8a9527ec.svg",
+    "static/media/motivationCarrot_tryAgain.b12d5e7a.svg": "./static/media/motivationCarrot_tryAgain.b12d5e7a.svg",
+    "static/media/motivationCarrot_wellDone.48c0003f.svg": "./static/media/motivationCarrot_wellDone.48c0003f.svg",
+    "static/media/parrotHelp.e4600232.svg": "./static/media/parrotHelp.e4600232.svg",
+    "static/media/question_textHeader.d24a3cff.svg": "./static/media/question_textHeader.d24a3cff.svg",
+    "static/media/reset.3bab4926.svg": "./static/media/reset.3bab4926.svg",
+    "static/media/sound_textHeader.ce297dc9.svg": "./static/media/sound_textHeader.ce297dc9.svg",
+    "static/media/tryAgain_textInCloud.29495567.svg": "./static/media/tryAgain_textInCloud.29495567.svg",
+    "static/media/wellDone_textInCloud.8bd4734a.svg": "./static/media/wellDone_textInCloud.8bd4734a.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dd81eaf0.js",
+    "static/js/2.4f43ad70.chunk.js",
+    "static/css/main.dd99f16a.chunk.css",
+    "static/js/main.979553bf.chunk.js"
+  ]
+}
